@@ -9,4 +9,5 @@
     <string name="button_submit">submit</string>
     <string name="age_error">You are too young!</string>
     <string name="button_back">back</string>
+    <string name="author">Vladislav Zakharov 04/14/2022</string>
 </resources>
