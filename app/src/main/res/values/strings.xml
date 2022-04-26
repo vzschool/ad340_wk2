@@ -1,13 +1,15 @@
 <resources>
     <string name="app_name">ad340_wk2</string>
-    <string name="default_name">John Doe</string>
-    <string name="default_email">john.doe@gmail.com</string>
-    <string name="default_username">jdoe</string>
-    <string name="button_set_date">birth date</string>
-    <string name="forgot_data_error">you have empty fields</string>
-    <string name="email_address_error">wrong format of email</string>
-    <string name="button_submit">submit</string>
-    <string name="age_error">You are too young!</string>
-    <string name="button_back">back</string>
-    <string name="author">Vladislav Zakharov 04/14/2022</string>
+    <string name="empty"></string>
+    <string name="editTextHintName">John Doe</string>
+    <string name="editTextHintEmail">johndoe@gmail.com</string>
+    <string name="editTextHintUsername">johndoe</string>
+    <string name="buttonBirthday">Birthday</string>
+    <string name="buttonSubmit">submit</string>
+    <string name="textViewAuthor">Vladislav Zakharov 04/22/2022</string>
+    <string name="errorEmptyEditText">Empty Edit Text Field</string>
+    <string name="errorWrongEmail">Wrong Email Structure</string>
+    <string name="errorAge">You Are Too Young</string>
+    <string name="textViewWelcome">Welcome!</string>
+    <string name="buttonBack">back</string>
 </resources>

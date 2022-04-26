@@ -17,8 +17,8 @@ public class WelcomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_welcome);
 
         Bundle b = getIntent().getExtras();
-        TextView userName = findViewById(R.id.welcome_username);
-        userName.setText(b.getString(Constants.USERNAME_KEY));
+        TextView textViewUsername = findViewById(R.id.textViewUsername);
+        textViewUsername.setText(b.getString(Constants.USERNAME_KEY));
     }
 
     public void back(View view) {
